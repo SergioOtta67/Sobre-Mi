@@ -21,3 +21,16 @@
 * CSS
 * Javascript
 * PHP
+
+### En Cuanto a los trabajos de Programación que he realizado a lo largo de éstos años
+* Sistema Contable
+* Sistema de Stock
+* Sistema de Ventas
+* Sistema de Sueldos y Jornales
+* Sistema de Control de Asistencia
+* Sistema de Control de Herramientas
+* Sistema de Ordenes de Copra a Proveedores
+* Sistema de Control de Tasas e Impuestos (Ambito Comunas)
+* Sistema de Tasas de Autoliquidacion (Estudios Contables-DReI)
+* Sistema de Autoliquidación Catastral
+* Sistema de Distribución de Correspondencia Digital
